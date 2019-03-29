@@ -1,4 +1,4 @@
-ESPERANTO_ALPHABET = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+ESPERANTO_ALPHABETabcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 def alphabetize(arr)
   arr.sort_by do |a|
